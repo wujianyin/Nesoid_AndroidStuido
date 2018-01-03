@@ -35,6 +35,5 @@ proguard/
 #iml
 *.iml
 
-# SVN File
-svn_other
-svn_other/
+#Native Build
+.externalNativeBuild/
